@@ -13,13 +13,12 @@ https://huggingface.co/spaces/recognize96/Final_Project_Customer_Churn
 Prediksi churn terhadap pelanggan kartu kredit
 
 ## Project Description
-Problem Statement   : Manajer bank menghadapi tantangan penurunan jumlah pelanggan kartu kredit di bank mereka. Untuk mengatasi hal tersebut, perlu dilakukan analisis terhadap faktor-faktor yang berkontribusi pada penurunan ini. Selain itu, penting juga untuk memprediksi pelanggan mana yang mungkin akan keluar dari layanan, sehingga langkah-langkah pencegahan yang tepat dapat diambil. Dengan melakukan prediksi churn, bank dapat menyediakan layanan khusus dan penawaran yang lebih menarik kepada pelanggan yang memiliki risiko tinggi untuk keluar, dengan tujuan menjaga pelanggan tetap loyal dan puas.
+Problem Statement   : Untuk menghadapi tantangan penurunan jumlah pelanggan kartu kredit , bank perlu menemukan suatu solusi. Oleh karena itu penting  untuk memprediksi pelanggan mana yang mungkin akan keluar dari layanan, sehingga langkah-langkah pencegahan yang tepat dapat diambil. Dengan melakukan prediksi churn, bank dapat menyediakan layanan khusus dan penawaran yang lebih menarik kepada pelanggan yang memiliki risiko tinggi untuk keluar, dengan tujuan menjaga pelanggan tetap loyal dan puas.
 
 Dari problem statement diatas, maka kita dapat membuat point point pertanyaan.
 
 - Karakteristik pelanggan manakah yang lebih cenderung untuk keluar dari layanan kartu kredit bank ?
 - Apakah model yang dibentuk sudah baik dalam memprediksi pelanggan yang akan keluar ?
-- Apa kelebihan dan kelemahan dari model yang sudah dibuat dalam memprediksi pelanggan yang akan keluar ?
 - Apa dampak positif yang dapat diberikan dari segi bisnis dalam pembuatan model ?
 
 
